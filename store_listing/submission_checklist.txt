@@ -1,0 +1,67 @@
+Play Store Submission Checklist
+
+1. Developer Account Setup
+☐ Create Google Play Developer account
+☐ Pay one-time registration fee ($25)
+☐ Complete account details
+☐ Verify developer identity
+
+2. App Bundle/APK
+☐ Generate release keystore
+☐ Configure app signing
+☐ Build release bundle
+☐ Test release version
+☐ Optimize APK size
+
+3. Store Listing Content
+☐ App title and short description
+☐ Full description
+☐ App icon (512x512)
+☐ Feature graphic (1024x500)
+☐ Screenshots (minimum 2)
+☐ Privacy policy
+☐ Content rating questionnaire
+☐ Data safety form
+
+4. Technical Requirements
+☐ Target API level compliance
+☐ Permissions declaration
+☐ App signing configuration
+☐ 64-bit compliance
+☐ NDK compliance
+
+5. Testing
+☐ Internal testing track
+☐ Closed testing track
+☐ Open testing track
+☐ Pre-launch report
+
+6. Release Management
+☐ Version code and name
+☐ Release notes
+☐ Phased rollout plan
+☐ Country/region availability
+
+7. Compliance
+☐ Privacy policy
+☐ Content ratings
+☐ Data safety declaration
+☐ Export compliance
+
+8. Store Presence
+☐ Categorization
+☐ Pricing
+☐ In-app products
+☐ Contact information
+
+9. Final Checks
+☐ Test on multiple devices
+☐ Verify all links
+☐ Check all images
+☐ Review all text content
+
+10. Post-Submission
+☐ Monitor review status
+☐ Prepare for review feedback
+☐ Plan for updates
+☐ Setup crash reporting

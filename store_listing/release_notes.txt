@@ -1,0 +1,33 @@
+Version 1.0.0 Release Notes
+
+Initial Release Features:
+
+• AR Functionality
+- Real-time appliance recognition
+- AR overlay guides
+- 3D maintenance instructions
+- Spatial tracking and anchoring
+
+• Maintenance Features
+- Comprehensive appliance database
+- Step-by-step maintenance guides
+- Maintenance history tracking
+- Scheduled maintenance reminders
+
+• User Interface
+- Intuitive AR controls
+- Easy navigation
+- Clear visual instructions
+- Progress tracking
+
+• Technical Specifications
+- Requires Android 8.0 or higher
+- ARCore compatible device required
+- Camera access needed
+- 100MB approximate download size
+
+Known Limitations:
+- Some appliance models may not be recognized
+- AR performance varies by device
+- Requires good lighting conditions
+- Internet connection required for initial setup

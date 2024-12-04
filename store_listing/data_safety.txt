@@ -1,0 +1,55 @@
+Data Safety Form
+
+1. Data Collection and Usage
+
+Types of data collected:
+a) Camera and Photos
+- Purpose: AR functionality
+- Required: Yes
+- Shared: No
+- Processing: On-device only
+- Encrypted: Yes
+
+b) Device Information
+- Purpose: App functionality and compatibility
+- Required: Yes
+- Shared: No
+- Processing: On-device only
+- Encrypted: Yes
+
+c) App Performance Data
+- Purpose: App improvement
+- Required: No
+- Shared: No
+- Processing: On-device only
+- Encrypted: Yes
+
+2. Data Security Practices
+
+- All data is processed locally on device
+- No data is transmitted to external servers
+- Camera feed is processed in real-time and not stored
+- Photos are only saved when explicitly requested by user
+- All saved data is encrypted using industry-standard encryption
+- No personal information is collected or stored
+
+3. Data Deletion
+
+Users can:
+- Clear app data through Android settings
+- Delete saved photos and maintenance records in-app
+- Opt out of optional data collection
+- Request complete data deletion
+
+4. Third-Party Services
+
+The app uses:
+- ARCore (Google) - For AR functionality
+- ML Kit (Google) - For object detection
+- No other third-party services used
+
+5. Children's Data
+
+- App does not collect data from children
+- No features specifically targeted at children
+- Compliant with COPPA regulations

@@ -1,0 +1,64 @@
+Privacy Policy for AR Home Maintenance Assistant
+
+Last updated: [Current Date]
+
+1. Information We Collect
+
+Camera Data:
+- We use your device's camera for AR features
+- Camera data is processed in real-time and is not stored
+- Images are only saved when you explicitly choose to save them
+
+Device Information:
+- Device model and OS version
+- ARCore support status
+- Screen resolution
+
+App Usage Data:
+- Feature usage statistics
+- App performance metrics
+- Crash reports
+
+2. How We Use Your Information
+
+- To provide AR functionality
+- To improve app performance
+- To fix bugs and crashes
+- To enhance user experience
+- To provide maintenance reminders
+
+3. Data Storage
+
+- All appliance and maintenance data is stored locally on your device
+- No personal data is transmitted to external servers
+- Backup features are optional and user-initiated
+
+4. Permissions
+
+The app requires:
+- Camera access for AR features
+- Storage access for saving data
+- Notification permission for reminders
+
+5. Data Security
+
+- All local data is encrypted
+- No cloud storage of personal information
+- Regular security updates
+
+6. Your Rights
+
+You can:
+- Delete all app data
+- Disable camera access
+- Opt out of analytics
+- Request data export
+
+7. Contact Us
+
+For privacy concerns:
+[Your Contact Information]
+
+8. Changes to Policy
+
+We will notify users of any privacy policy changes through app updates.

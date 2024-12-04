@@ -1,0 +1,49 @@
+AR Home Maintenance Assistant
+
+Short Description:
+Your personal AR guide for home appliance maintenance and repairs.
+
+Full Description:
+AR Home Maintenance Assistant is your smart companion for maintaining and repairing home appliances. Using cutting-edge augmented reality technology, this app helps you:
+
+• Instantly identify appliances using your camera
+• Access step-by-step maintenance guides with AR overlays
+• Track maintenance history and schedules
+• Get real-time AR guidance for repairs
+• Store important appliance information
+• Receive maintenance reminders
+
+Features:
+✓ Augmented Reality Guidance
+- Real-time appliance recognition
+- Interactive 3D maintenance instructions
+- Visual markers for key components
+- Precise positioning guides
+
+✓ Comprehensive Maintenance Tracking
+- Detailed maintenance history
+- Scheduled maintenance reminders
+- Cost tracking
+- Technician records
+
+✓ Smart Home Management
+- Appliance database
+- Warranty tracking
+- Service history
+- Performance monitoring
+
+✓ User-Friendly Interface
+- Intuitive AR controls
+- Easy-to-follow guides
+- Clear visual instructions
+- Progress tracking
+
+Perfect for:
+• Homeowners
+• Property managers
+• DIY enthusiasts
+• Maintenance technicians
+
+Note: This app requires ARCore support and camera access to provide AR features.
+
+Download now and transform your home maintenance experience with the power of augmented reality!

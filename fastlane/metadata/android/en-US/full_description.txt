@@ -1,0 +1,14 @@
+AR Home Maintenance Assistant helps you maintain and repair home appliances using augmented reality technology.
+
+Features:
+* Real-time appliance recognition
+* AR maintenance guides
+* Maintenance history tracking
+* Scheduled reminders
+* No ads or tracking
+* Completely offline
+* Free and open source
+
+Required Permissions:
+* Camera - For AR features
+* Storage - For saving maintenance data

@@ -1,0 +1,57 @@
+Pricing & Distribution Information
+
+1. Pricing Model
+• App Type: Free with In-App Purchases
+• Base App: Free
+• Premium Features:
+  - Advanced maintenance guides: $4.99
+  - Custom appliance database: $2.99
+  - Maintenance history export: $1.99
+  - Ad removal: $3.99
+
+2. Geographic Distribution
+• Available Countries: All countries
+• Excluded Regions: None
+• Primary Markets:
+  - United States
+  - Canada
+  - United Kingdom
+  - European Union
+  - Australia
+  - Japan
+
+3. Device Compatibility
+• Minimum Android Version: 8.0 (API 26)
+• Required Features:
+  - Camera
+  - ARCore support
+  - OpenGL ES 3.0
+  - 3GB RAM minimum
+• Excluded Devices:
+  - Devices without ARCore support
+  - Devices without proper camera support
+
+4. Content Guidelines
+• Target Age: Everyone (3+)
+• Contains No Ads (at launch)
+• Contains In-App Purchases
+• No Gambling Content
+• No User-Generated Content
+
+5. App Category
+• Primary: Tools
+• Secondary: Lifestyle
+
+6. Launch Regions
+Phase 1 (Initial Launch):
+- United States
+- Canada
+- United Kingdom
+
+Phase 2 (30 days after initial launch):
+- European Union
+- Australia
+- Japan
+
+Phase 3 (60 days after initial launch):
+- All remaining countries

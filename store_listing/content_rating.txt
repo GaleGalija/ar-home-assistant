@@ -1,0 +1,33 @@
+Content Rating Questionnaire Answers
+
+1. Violence
+- Does the app contain any violent content? No
+- Does the app contain any references to violence? No
+
+2. Sex
+- Does the app contain any sexual content? No
+- Does the app contain any references to sexuality? No
+
+3. Language
+- Does the app contain any profane or crude content? No
+- Does the app contain any references to profanity? No
+
+4. Controlled Substances
+- Does the app contain any references to controlled substances? No
+- Does the app promote the use of controlled substances? No
+
+5. Miscellaneous
+- Does the app contain any user-generated content? No
+- Does the app enable communication between users? No
+- Does the app share user's location? No
+- Does the app contain any gambling content? No
+
+Expected Rating: EVERYONE (3+)
+Reasons:
+- No violent content
+- No sexual content
+- No crude language
+- No controlled substances
+- No user-generated content
+- No location sharing
+- No gambling elements
